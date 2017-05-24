@@ -3,6 +3,10 @@ body {
   width: 70%;
 }
 
+body li {
+  display: inline;
+}
+
 header ul {
   font-family:'Garamond', 'Times New Roman', 'Serif';
   font-size: 3em;
@@ -19,6 +23,8 @@ nav ul li, footer ul li {
   display: inline;
   margin-right: 30px;
 }
+
+body 
 
 a {
   text-decoration: none;
