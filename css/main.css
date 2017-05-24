@@ -4,7 +4,7 @@ body {
   background-color: lightblue
 }
 
-wrapper {
+div.wrapper {
   margin: auto;
   width: 70%;
   background-color: white
