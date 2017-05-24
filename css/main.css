@@ -11,10 +11,10 @@ div.wrapper {
   background-color: white
 }
 
-header ul {
+header {
+  border-top: 1.5px solid #d5d5d5;
   font-family:'Garamond', 'Times New Roman', 'Serif';
   font-size: 3em;
-  border-top: 1.5px solid #d5d5d5;
 }
 
 nav ul, footer ul {
