@@ -1,7 +1,13 @@
 body {
   margin: auto;
-  width: 70%;
+  width: 100%;
   background-color: lightblue
+}
+
+wrapper {
+  margin: auto;
+  width: 70%;
+  background-color: white
 }
 
 header ul {
