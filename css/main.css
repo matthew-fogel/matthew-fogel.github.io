@@ -1,3 +1,5 @@
+background-color: lightblue
+
 body {
   margin: auto;
   width: 70%;
@@ -6,6 +8,7 @@ body {
 header ul {
   font-family:'Garamond', 'Times New Roman', 'Serif';
   font-size: 3em;
+  border-top: 1.5px solid #d5d5d5;
 }
 
 nav ul, footer ul {
@@ -19,8 +22,6 @@ nav ul li, footer ul li {
   display: inline;
   margin-right: 30px;
 }
-
-body 
 
 a {
   text-decoration: none;
