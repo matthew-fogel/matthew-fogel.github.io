@@ -42,7 +42,7 @@ a:hover {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.3em;
   font-family:'Garamond', 'Times New Roman', 'Serif';
 }
 
@@ -57,9 +57,13 @@ footer {
   font-size: .8em;
 }
 
+footer ul li {
+  font-weight: normal;
+}
+
 ul.posts {
   margin: auto;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 ul.posts li {
