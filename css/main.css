@@ -12,6 +12,10 @@ div.wrapper {
   background-color: white
 }
 
+div.image {
+  display: inline-block;
+}
+
 header {
   border-bottom: 1.5px solid #d5d5d5;
   font-family:'Garamond', 'Times New Roman', 'Serif';
