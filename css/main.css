@@ -2,7 +2,7 @@ html {
   margin: auto;
   height: 100%;
   width: 100%;
-  background-image: url(../crater_small.JPG);
+  background-image: url("../crater_small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: skyblue;
