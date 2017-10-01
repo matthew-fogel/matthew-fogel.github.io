@@ -83,3 +83,12 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
+
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+}
