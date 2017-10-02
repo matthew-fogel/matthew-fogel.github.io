@@ -8,7 +8,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	  </head>  
     <body>
-	<div class="wrapper">
+        <div class="fixed header navbar">
 		<header>
 		  <h1>Matthew Fogel</h1>
 		</header>
@@ -16,21 +16,25 @@
 			<ul>
 			  <li><a href="/">Home</a></li>
 			  <li><a href="/about">About</a></li>
-			  <li><a href="/blog">Blog</a></li>
 			  <li><a href="/projects">Projects</a></li>
 			  <li><a href="/links">Links</a></li>
 			</ul>
 		</nav>
-        <div class="information">
-          {{content}}
-        </div><!--/.information-->
-       	<footer>
-		<ul>
-			<li><a href="https://github.com/matthew-fogel" class="fa fa-github"></a></li>
-			<li>© 2017 Matthew Fogel.</li>
-			<li>Background: Haleakala Crater Sunrise © Matthew Fogel
-		</ul>
-	</footer>
-      </div><!--/.wrapper-->
+        </div>
+	  
+	<div class="wrapper">
+
+          <div class="information">
+            {{content}}
+          </div><!--/.information-->
+          <footer>
+	    <ul>
+	      <li><a href="https://github.com/matthew-fogel" class="fa fa-github"></a></li>
+	      <li>© 2017 Matthew Fogel.</li>
+	      <li>Background: Haleakala Crater Sunrise © Matthew Fogel
+	    </ul>
+	  </footer>
+		
+        </div><!--/.wrapper-->
     </body>
   </html>
