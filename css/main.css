@@ -32,6 +32,7 @@ header {
   font-family:'Garamond', 'Times New Roman', 'Serif';
   font-size: 1.5em;
   display: block;
+  border-bottom: 1.5px solid #d5d5d5;
 }
 
 nav {
