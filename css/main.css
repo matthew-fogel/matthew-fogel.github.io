@@ -9,6 +9,13 @@ html {
   background-color: deepskyblue;
 }
 
+div.headerbar {
+  margin: auto;
+  padding: 15px;
+  width: 80%;
+  background-color: white
+}
+
 div.wrapper {
   margin: auto;
   padding: 15px;
