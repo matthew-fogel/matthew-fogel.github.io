@@ -17,6 +17,7 @@ div.headerbar {
 }
 
 div.wrapper {
+  display: block;
   margin: auto;
   padding: 15px;
   width: 80%;
