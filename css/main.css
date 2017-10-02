@@ -35,11 +35,6 @@ header {
   border-bottom: 1.5px solid #d5d5d5;
 }
 
-nav {
-  display: inline;
-  float: left;
-}
-
 nav ul {
   font-family:'Verdana', 'Arial', 'Sans-Serif';
   padding: 0px;
