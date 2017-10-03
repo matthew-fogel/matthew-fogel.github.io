@@ -11,19 +11,23 @@ html {
 
 div.headerbar {
   margin: auto;
-  padding: 15px;
   width: 80%;
   background-color: white;
-  padding-bottom: 0px;
+  padding-bottom: 1px;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 div.wrapper {
   display: block;
   margin: auto;
-  padding: 15px;
   width: 80%;
   background-color: white;
-  padding-top: 0px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 div.image {
