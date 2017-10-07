@@ -7,7 +7,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
   background-color: deepskyblue;
-  rem: 16px;
+  font-size: 16px;
 }
 
 div.headerbar {
@@ -37,7 +37,7 @@ div.image {
 
 header {
   font-family:'Garamond', 'Times New Roman', 'Serif';
-  font-size: 1.5em;
+  font-size: 1.5rem;
   display: block;
   border-bottom: 1.5px solid #d5d5d5;
 }
@@ -76,24 +76,24 @@ a:hover {
 }
 
 h1 {
-  font-size: 1.3em;
+  font-size: 1.3rem;
   font-family:'Garamond', 'Times New Roman', 'Serif';
 }
 
 h2 {
-  font-size: 1.15em;
+  font-size: 1.15rem;
   font-family:'Garamond', 'Times New Roman', 'Serif';
 }
 
 p {
-  font-size: 1em;
-  line-height: 1.2em;
+  font-size: 1rem;
+  line-height: 1.2rem;
   color: #333333;
 }
 
 footer {
   border-top: 1.5px solid #d5d5d5;
-  font-size: .8em;
+  font-size: .8rem;
 }
 
 footer ul li {
@@ -102,13 +102,13 @@ footer ul li {
 
 ul.posts {
   margin: auto;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 ul.posts li {
   list-style: none;
-  font-size: 1em;
-  line-height: 1.2em;
+  font-size: 1rem;
+  line-height: 1.2rem;
 }
 
 .fa {
