@@ -40,6 +40,14 @@ div.image {
 .one-line{
   display: inline;
   font-family:'Garamond', 'Times New Roman', 'Serif';
+  margin-right: 5px;
+}
+
+.big-one-line{
+  display: inline;
+  font-family:'Garamond', 'Times New Roman', 'Serif';
+  margin-right: 5px;
+  font-size: 1.5rem;
 }
 
 header {
