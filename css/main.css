@@ -44,6 +44,7 @@ header {
   font-family:'Garamond', 'Times New Roman', 'Serif';
   font-size: 1.5rem;
   display: block;
+  padding-bottom: 5px;
   border-bottom: 1.5px solid #d5d5d5;
 }
 
