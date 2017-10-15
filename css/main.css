@@ -104,6 +104,12 @@ p {
 footer {
   border-top: 1.5px solid #d5d5d5;
   font-size: .8rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+footer ul {
+  display: inline-block;
 }
 
 footer ul li {
