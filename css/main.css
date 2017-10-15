@@ -69,6 +69,7 @@ footer ul {
   list-style: none;
   font-weight: normal;
   text-align: center;
+  margin: auto;
 }
 
 nav ul li, footer ul li {
