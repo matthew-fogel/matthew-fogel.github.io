@@ -7,10 +7,11 @@ html {
   background-size: cover;
   background-attachment: fixed;
   background-color: deepskyblue;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 div.headerbar {
+  font-size: 1rem;
   margin: auto;
   width: 80%;
   background-color: white;
@@ -21,6 +22,7 @@ div.headerbar {
 }
 
 div.wrapper {
+  font-size: 1rem;
   display: block;
   margin: auto;
   width: 80%;
@@ -42,6 +44,7 @@ div.image {
 
 header {
   font-family:'Garamond', 'Times New Roman', 'Serif';
+  font-size: 1rem;
   display: block;
   padding-top: 5px;
   padding-bottom: 10px;
