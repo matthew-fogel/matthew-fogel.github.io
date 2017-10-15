@@ -69,6 +69,8 @@ footer ul {
   list-style: none;
   font-weight: normal;
   text-align: center;
+  display: inline;
+  margin: auto;
 }
 
 nav ul li, footer ul li {
@@ -106,10 +108,6 @@ footer {
   font-size: .8rem;
   padding-top: 10px;
   padding-bottom: 10px;
-}
-
-footer ul {
-  display: inline;
 }
 
 footer ul li {
