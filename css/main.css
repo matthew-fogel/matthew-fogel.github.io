@@ -109,7 +109,7 @@ footer {
 }
 
 footer ul {
-  display: inline-block;
+  display: inline;
 }
 
 footer ul li {
